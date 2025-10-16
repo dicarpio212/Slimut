@@ -9,11 +9,11 @@ import * as Appwrite from 'appwrite';
 // You can find these in your Appwrite console under 'Settings'.
 // ====================================================================
 const APPWRITE_ENDPOINT = 'https://cloud.appwrite.io/v1'; // Your Appwrite Endpoint
-const APPWRITE_PROJECT_ID = 'YOUR_PROJECT_ID'; // Your Appwrite Project ID
+const APPWRITE_PROJECT_ID = '68ef9f1000305edffab9'; // Your Appwrite Project ID
 
 // It's recommended to create a new database for this application.
 // Find the Database ID in your Appwrite console -> Databases.
-export const APPWRITE_DATABASE_ID = 'YOUR_DATABASE_ID'; 
+export const APPWRITE_DATABASE_ID = 'pajal_db'; 
 
 // ====================================================================
 // Collection & Bucket IDs
